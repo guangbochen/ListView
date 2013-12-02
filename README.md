@@ -1,1 +1,1 @@
-## Android ListView Example using MVC
+## Android ListView Example followed MVP architecture
